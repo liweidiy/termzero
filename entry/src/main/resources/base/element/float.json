@@ -1,0 +1,26 @@
+{
+  "float": [
+    { "name": "radius_card", "value": "12vp" },
+    { "name": "radius_control", "value": "10vp" },
+    { "name": "space_xs", "value": "8vp" },
+    { "name": "space_s", "value": "16vp" },
+    { "name": "space_m", "value": "24vp" },
+    { "name": "card_padding", "value": "16vp" },
+    { "name": "header_height", "value": "64vp" },
+    { "name": "toolbar_height", "value": "56vp" },
+    { "name": "row_height", "value": "44vp" },
+    { "name": "btn_height", "value": "40vp" },
+    { "name": "input_height", "value": "44vp" },
+    { "name": "status_dot", "value": "8vp" },
+    { "name": "divider_thickness", "value": "1vp" },
+    { "name": "font_largeTitle", "value": "28fp" },
+    { "name": "font_title", "value": "20fp" },
+    { "name": "font_body", "value": "16fp" },
+    { "name": "font_footnote", "value": "14fp" },
+    { "name": "font_caption", "value": "12fp" },
+    { "name": "font_terminal", "value": "13fp" },
+    { "name": "send_btn_width", "value": "80vp" },
+    { "name": "connect_btn_width", "value": "88vp" },
+    { "name": "port_input_width", "value": "96vp" }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "termzero",
+  "version": "0.1.0",
+  "description": "TermZero HarmonyOS SSH client (hvigor build harness)",
+  "main": "",
+  "author": "",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@ohos/hvigor": "5.4.0",
+    "@ohos/hvigor-ohos-plugin": "5.4.0"
+  }
+}

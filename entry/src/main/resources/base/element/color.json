@@ -1,0 +1,72 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#F2F2F7"
+    },
+    {
+      "name": "page_bg",
+      "value": "#F2F2F7"
+    },
+    {
+      "name": "bar_bg",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "card_bg",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "divider",
+      "value": "#E5E5EA"
+    },
+    {
+      "name": "text_primary",
+      "value": "#1C1C1E"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#8E8E93"
+    },
+    {
+      "name": "text_tertiary",
+      "value": "#AEAEB2"
+    },
+    {
+      "name": "accent",
+      "value": "#007AFF"
+    },
+    {
+      "name": "accent_text_on",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "destructive",
+      "value": "#FF3B30"
+    },
+    {
+      "name": "input_bg",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "terminal_bg",
+      "value": "#1E1E1E"
+    },
+    {
+      "name": "terminal_text",
+      "value": "#E8E8E8"
+    },
+    {
+      "name": "terminal_dim",
+      "value": "#6E6E73"
+    },
+    {
+      "name": "keycap_bg",
+      "value": "#3A3A3C"
+    },
+    {
+      "name": "keycap_fg",
+      "value": "#E8E8E8"
+    }
+  ]
+}

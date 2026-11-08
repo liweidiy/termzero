@@ -1,0 +1,8 @@
+{
+  "modelVersion": "5.0.0",
+  "description": "TermZero (com.termzero.app) built on ohos-ssh-core engine, adapted to OpenHarmony API 15",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}

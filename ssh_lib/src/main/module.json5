@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "ssh_lib",
+    "type": "har",
+    "deviceTypes": [
+      "default"
+    ]
+  }
+}
